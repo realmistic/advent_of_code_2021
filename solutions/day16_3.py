@@ -1,5 +1,8 @@
 # https://www.reddit.com/r/adventofcode/comments/rhj2hm/2021_day_16_solutions/  ==> taken Python solution from Derp_Derps
 
+# Recursive solution 1: https://github.com/Dullstar/Advent_Of_Code/blob/main/python/year2021/day16.py
+#  Clear solution 2: https://github.com/cjhubbs/advent_of_code/blob/master/2021/day_16/16-1.py
+
 def read_stats():
     text_file = open('../inputs/day16/input_test.txt', 'r')
     lines = text_file.read().splitlines()
